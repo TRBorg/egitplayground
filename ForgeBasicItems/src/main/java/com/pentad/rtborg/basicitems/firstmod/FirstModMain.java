@@ -20,6 +20,8 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 @Mod(FirstModMain.MOD_ID)
 public class FirstModMain {
 	
+	This is a tragic error!
+	
     public static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "firstmod";
 
